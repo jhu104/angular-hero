@@ -1,4 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 body {
   background: url('assets/bg.jpg') 100%;
-};
+}
+app-root {
+  display: block;
+  background-color: rgba(236, 213, 213, 0.9);
+  width: 400px;
+  padding: 10px 0px 20px 20px;
+}
